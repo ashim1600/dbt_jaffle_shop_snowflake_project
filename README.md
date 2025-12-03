@@ -1,0 +1,1 @@
+# dbt_jaffle_shop_snowflake_project
